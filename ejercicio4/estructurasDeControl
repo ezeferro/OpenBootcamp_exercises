@@ -34,13 +34,13 @@ public class estructurasDeControl{
         //Switch
         Switch ( estacion){
             case "verano":
-                System.out.println("No es estacion");
+                System.out.println("Es verano");
             case "primavera":
-                System.out.println("No es estacion");
+                System.out.println("Es primavera");
             case "invierno":
-                System.out.println("No es estacion");
+                System.out.println("Es invierno");
             case "otonio":
-                System.out.println("No es estacion");
+                System.out.println("Es otonio");
             default: 
                 System.out.println("No es estacion");
         }
